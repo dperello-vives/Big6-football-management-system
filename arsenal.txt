@@ -1,0 +1,13 @@
+TEAM, Arsenal
+COACH,Mikel Arteta,44,7 
+GOALKEEPER,David Raya,30,GK,102,16
+PLAYER,Bukayo Saka,24,RW,18,13,14 
+PLAYER,Martin Odegaard,27,CAM,9,12,19 
+PLAYER,Declan Rice,27,CM,7,9,28 
+PLAYER,Gabriel Magalhaes,28,CB,4,1,34 
+PLAYER,Jurrien Timber,25,RB,3,5,37 
+MATCH,Liverpool,2,1 
+MATCH,Manchester City,1,1
+MATCH,Manchester United,3,0
+MATCH,Chelsea,2,2
+MATCH,Tottenham,2,0

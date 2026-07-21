@@ -1,0 +1,13 @@
+TEAM,Manchester United
+COACH,Micheal Carrick,40,7
+GOALKEEPER,Senne Lammens,24,GK,98,12
+PLAYER,Bruno Fernandes,31,CAM,15,13,34
+PLAYER,Matheus Cunha,27,ST,17,6,32
+PLAYER,Kobbie Mainoo,21,CM,5,7,28
+PLAYER,Amad Diallo,23,RW,11,10,29
+PLAYER,Leny Yoro,20,CB,2,1,30
+MATCH,Arsenal,0,3
+MATCH,Liverpool,2,2
+MATCH,Manchester City,0,2
+MATCH,Chelsea,1,0
+MATCH,Tottenham,2,1

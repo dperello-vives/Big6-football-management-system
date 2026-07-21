@@ -1,0 +1,13 @@
+TEAM,Liverpool
+COACH,Andoni Iraola,44,8
+GOALKEEPER,Alisson Becker,33,GK,110,14
+PLAYER,Alexander Isak,26,ST,24,6,22
+PLAYER,Florian Wirtz,23,CAM,11,14,24
+PLAYER,Dominik Szoboszlai,25,CM,10,11,30
+PLAYER,Ryan Gravenberch,24,CDM,4,6,33
+PLAYER,Virgil van Dijk,35,CB,3,2,34
+MATCH,Arsenal,1,2
+MATCH,Manchester City,3,2
+MATCH,Manchester United,2,2
+MATCH,Chelsea,2,1
+MATCH,Tottenham,3,1

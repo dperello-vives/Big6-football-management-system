@@ -1,0 +1,13 @@
+TEAM,Manchester City
+COACH,Enzo Maresca,46,9
+GOALKEEPER,Ederson,32,GK,104,16
+PLAYER,Erling Haaland,25,ST,29,6,22
+PLAYER,Phil Foden,26,CAM,14,10,28
+PLAYER,Jeremy Doku,24,LW,9,12,30
+PLAYER,Ruben Dias,29,CB,2,1,35
+PLAYER,Rayan Ait-Nouri,25,LB,3,8,37
+MATCH,Arsenal,1,1
+MATCH,Liverpool,2,3
+MATCH,Manchester United,2,0
+MATCH,Chelsea,3,1
+MATCH,Tottenham,2,2
