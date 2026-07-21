@@ -64,4 +64,4 @@ tottenham.txt
 
 - Store team data in a database instead of text files
 - Add a league table
-- Allow users to enter their details and create an account
+- Use real life statistics
