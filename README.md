@@ -43,3 +43,8 @@ man_utd.txt
 chelsea.txt
 tottenham.txt
 ```
+## Future Improvements
+
+- Store team data in a database instead of text files
+- Add a league table
+- Allow users to save changes
