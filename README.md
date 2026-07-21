@@ -54,7 +54,7 @@ tottenham.txt
 
 ### Match Results
 
-![Squad Display](ss3.jpg)
+![Match Results](ss3.jpg)
 
 ### Binary Search
 
