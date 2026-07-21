@@ -43,6 +43,23 @@ man_utd.txt
 chelsea.txt
 tottenham.txt
 ```
+## Screenshots
+
+###Main Menu
+![Main Menu](ss1.jpg)
+
+### Team Menu
+
+![Team Menu](ss2.jpg)
+
+### Squad Display
+
+![Squad Display](ss3.jpg)
+
+### Binary Search
+
+![Binary Search](ss4.jpg)
+
 ## Future Improvements
 
 - Store team data in a database instead of text files
