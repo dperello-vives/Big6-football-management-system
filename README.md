@@ -52,7 +52,7 @@ tottenham.txt
 
 ![Team Menu](ss2.jpg)
 
-### Squad Display
+### Match Results
 
 ![Squad Display](ss3.jpg)
 
