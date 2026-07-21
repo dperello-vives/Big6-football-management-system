@@ -45,7 +45,7 @@ tottenham.txt
 ```
 ## Screenshots
 
-###Main Menu
+### Main Menu
 ![Main Menu](ss1.jpg)
 
 ### Team Menu
